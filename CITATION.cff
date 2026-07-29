@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you reference Seven Governors before the technical release, cite this project record."
+title: "Seven Governors"
+type: software
+authors:
+  - family-names: "Wright"
+    given-names: "Erick"
+version: "0.0-public-placeholder"
+date-released: "2026-07-28"
+abstract: >-
+  An independent computational research project exploring structured state
+  representation, graph-based reasoning, and music-theoretic organization.
+  Technical details are intentionally withheld pending intellectual-property review.
