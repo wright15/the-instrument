@@ -19,8 +19,6 @@ Created by: `Erick Wright`
 
 The public project will eventually document research into computational structures, graph representations, validation methods, and applications across music theory and structured reasoning.
 
-Technical mechanisms are intentionally omitted from this pre-filing placeholder.
-
 ## Citation
 
 See `CITATION.cff` for provisional project citation metadata.
