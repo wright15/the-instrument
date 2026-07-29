@@ -1,16 +1,11 @@
-# Pre-Filing Disclosure Boundary
+# Public Release Scope
 
-This repository is intentionally non-enabling.
+This repository is an early public record of the Seven Governors research project.
 
-Until patent strategy is resolved, do not add:
+The current release intentionally presents high-level research context rather than
+the complete technical implementation. Additional specifications, software,
+research artifacts, datasets, and documentation may be released in future versions
+as the project develops.
 
-- implementation source code;
-- graph node/edge datasets;
-- controller state tables;
-- transition algorithms;
-- audit scripts;
-- internal framework specifications;
-- detailed architecture diagrams;
-- reproducible examples that reveal the private mechanisms.
-
-This boundary should be reviewed after any patent filing and whenever a new technical feature is developed.
+This document describes the scope of the current public release and should not be
+interpreted as a statement regarding the status or scope of any intellectual-property rights.
